@@ -53,7 +53,7 @@ html{
 
 
 .hero{
-    background-image: url(Cover.jpg);
+    background-image: url(cover-image.jpg);
     background-size: cover;
     background-position: 100% 20%;
     height: 100vh;
@@ -87,7 +87,7 @@ html{
 
 .heading__top{
     display: block;
-    background-image: url(Cover.jpg);
+    background-image: url(cover-image.jpg);
     background-size: 100vw 100vh;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
