@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 *{
     padding: 0;
@@ -78,9 +79,10 @@ html{
 }
 
 .heading{
+    font-family: 'Righteous', cursive;
     font-size: 8rem;
     font-weight: 800;
-    color: #fff;
+    color: #E1F5C4;
 }
 
 .heading__top{
