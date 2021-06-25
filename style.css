@@ -89,6 +89,7 @@ html{
     display: block;
     background-image: url(cover-image.jpg);
     background-size: 100vw 100vh;
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
